@@ -1,4 +1,4 @@
-# cricket_management_system
+# Cricket_management_system
 
 ## Overview
 This project develops a robust database system for managing an international cricket league, focusing on various entities such as players, teams, matches, stadiums, and fans. It aims to streamline data management and enhance the decision-making process related to match scheduling, player statistics, and audience management.

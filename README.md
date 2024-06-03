@@ -12,7 +12,7 @@ This project develops a robust database system for managing an international cri
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-github-shrutiborge/cricket_management_system.git
+   git clone https://github.com/shrutiborge/cricket_management_system.git
 
 2. **Database Setup:**
 
